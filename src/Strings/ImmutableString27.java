@@ -13,7 +13,7 @@ public class ImmutableString27 {
 		System.out.println(str); //op will be yash not added with kumar
 		
 		//how to change it 
-		//We can do it by cloning it 
+		//We can do it by cloning it S
 		String str2=str.concat(" Kumar");
 		System.out.println(str2);
 		//here it's not changed to str it's point using str2
